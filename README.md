@@ -8,9 +8,9 @@
 * The last scene is the scene with name of creators bouncing around.
 
 
-![Image of Scene1](https://github.com/Anthima/Animation/main/Scene1.png)
+![Image of Scene1](https://github.com/Anthima/Animation/main/Scene1.jpg)
 ![Image of Scene1](https://github.com/Anthima/Animation/main/Scene2.png)
-![Image of Scene1](https://github.com/Anthima/Animation/main/audio.png)
+![Image of Scene1](https://github.com/Anthima/Animation/main/Video.png)
 
 
 
